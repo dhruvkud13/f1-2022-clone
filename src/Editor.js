@@ -1,10 +1,10 @@
 import React from "react";
 import {GrPlay} from 'react-icons/gr';
-import vegas from './vegas.jpg';
-import vegastrack from './vegastrack.jpg';
-import f1vegas from './f1vegas.jpg';
-import layout from './layout.jpg';
-import vegasbaby from './vegasbaby.jpg';
+import vegas from './editors picks/vegas.jpg';
+import vegastrack from './editors picks/vegastrack.jpg';
+import f1vegas from './editors picks/f1vegas.jpg';
+import layout from './editors picks/layout.jpg';
+import vegasbaby from './editors picks/vegasbaby.jpg';
 
 const Editor = () => {
   return (

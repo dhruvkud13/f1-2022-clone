@@ -1,8 +1,8 @@
 import React from "react";
-import guanyu from "./guanyu.jpg";
-import seb from "./seb.jpg";
-import radio from "./radio.jpg";
-import reaction from "./reaction.jpg";
+import guanyu from "./more news/guanyu.jpg";
+import seb from "./more news/seb.jpg";
+import radio from "./more news/radio.jpg";
+import reaction from "./more news/reaction.jpg";
 import { GrPlay } from "react-icons/gr";
 
 const More = () => {

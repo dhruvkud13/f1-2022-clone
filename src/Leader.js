@@ -1,10 +1,10 @@
 import React from "react";
-import charles from "./charles.png";
-import carlos from "./carlos.png";
-import max from "./max.png";
-import monaco from "./monaco.png";
-import dutch from "./dutch.png";
-import spain from "./spain.png";
+import charles from "./leaders/charles.png";
+import carlos from "./leaders/carlos.png";
+import max from "./leaders/max.png";
+import monaco from "./leaders/monaco.png";
+import dutch from "./leaders/dutch.png";
+import spain from "./leaders/spain.png";
 
 import Card from "./components/Card";
 import Standings from './components/Standings';

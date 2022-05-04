@@ -1,11 +1,11 @@
 import React from "react";
 import "./News.css";
-import video1 from "../src/lec.mp4";
-import redbull from "./redbull.jpg";
-import bottas from "./bottas.jpg";
+import video1 from "../src/breaking news/lec.mp4";
+import redbull from "./breaking news/redbull.jpg";
+import bottas from "./breaking news/bottas.jpg";
 import { GrPlay } from "react-icons/gr";
-import mclaren from "./mclaren.jpg";
-import rb from "./rb.jpg";
+import mclaren from "./breaking news/mclaren.jpg";
+import rb from "./breaking news/rb.jpg";
 import Editor from "./Editor";
 
 const News = () => {

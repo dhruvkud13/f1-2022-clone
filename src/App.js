@@ -1,6 +1,6 @@
 import "./App.css";
-import fialogo from "../src/fia logo.png";
-import f1tvlogo from "../src/f1tv.jpg";
+import fialogo from "../src/fia logos/fia logo.png";
+import f1tvlogo from "../src/fia logos/f1tv.jpg";
 import { AiOutlineUser } from "react-icons/ai";
 import Bar from "./Bar";
 import News from './News';

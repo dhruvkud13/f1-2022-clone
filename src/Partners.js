@@ -1,5 +1,5 @@
 import React from 'react'
-import f1logo from "../src/f1-final.png";
+import f1logo from "../src/fia logos/f1-final.png";
 import rolex from './partners/rolex.png';
 import emirates from './partners/emirates.png';
 import aramco from './partners/aramco.png';

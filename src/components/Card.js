@@ -1,6 +1,4 @@
 import React,{useRef,useEffect} from "react";
-import charles from "../charles.png";
-import monaco from '../monaco.png'
 
 const Card = ({logo,name,surname,face,teamcolor}) => {
   const bordcolor = useRef(null);
